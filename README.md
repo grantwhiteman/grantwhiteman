@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @grantwhiteman
 - 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning CS50 Introduction to Computer Science
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently looking at junior software engineering positions
 - 📫 How to reach me grantwhiteman95@gmail.com
 
 <!---
