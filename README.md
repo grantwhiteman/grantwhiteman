@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @grantwhiteman
 - 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently looking at junior software engineering positions
 - 📫 How to reach me grantwhiteman95@gmail.com
 
 <!---
